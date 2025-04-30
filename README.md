@@ -44,10 +44,11 @@ In conclusion, a Virtual Private Network serves as a sophisticated and invaluabl
 #### UDP 500 (ISAKMP/IKE): For key exchange.
 #### UDP 4500 (NAT-T): For NAT traversal.
 #### UDP 1701 (L2TP): For the L2TP protocol (often used with IPsec).
+### IP: 206.217.136.90 - Port: 4500  <-- Free VPN Server
 ------------------------------------------------------------------------
 
 # DEVS
-I am a solo dev on this vpn project my name is syxfer pls if you can donate to me it takes alot of time
+I am a solo dev on this vpn project my username is syxfer pls if you can donate to me it takes alot of time
 ---------------------------------------------------------------------------
 
 # Dontain
