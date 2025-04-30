@@ -27,7 +27,7 @@ Performance: The encryption and routing processes inherent in VPN operation can 
 Trust in the VPN Provider: Users are essentially entrusting their internet traffic to their chosen VPN provider. It is crucial to select a reputable and trustworthy provider with a clear privacy policy and a proven track record of protecting user data.
 Legality: The legality of using VPNs can vary across different jurisdictions. While generally legal in most parts of the world, some countries have imposed restrictions or outright bans on their use. Users should be aware of the legal landscape in their respective locations.
 In conclusion, a Virtual Private Network serves as a sophisticated and invaluable tool for enhancing online security, protecting digital privacy, and enabling greater internet freedom. By establishing an encrypted tunnel and routing traffic through intermediary servers, VPNs provide a crucial layer of protection against the inherent vulnerabilities of public networks and the increasing threats to online privacy. Their utility extends across individual users seeking greater anonymity and security to organizations requiring secure remote access and the circumvention of geographical limitations. As the digital landscape continues to evolve, the role and importance of VPNs in safeguarding online interactions are likely to remain significant.
-
+-----------------------------------------------------------------------------------------------------------------------------
 
 # Safe IP's and Ports
 
@@ -36,10 +36,17 @@ In conclusion, a Virtual Private Network serves as a sophisticated and invaluabl
 #### UDP 1701 (L2TP): For the L2TP protocol (often used with IPsec).
 ------------------------------------------------------------------------
 
-## DEVS
+# DEVS
 I am a solo dev on this vpn project my name is syxfer pls if you can donate to me it takes alot of time
+---------------------------------------------------------------------------
+
+# Dontain
+#### CashApp - $syxfer
+### NOTE - you dont need to donate more than 5$
+------------------------------------------------
 
 # Links - Contacts
 
 ### GitHub - https://www.github.com/syxfer/
 #### FIND MY OTHER GITHUB PROJETS
+
