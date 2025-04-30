@@ -31,11 +31,11 @@ In conclusion, a Virtual Private Network serves as a sophisticated and invaluabl
 
 # How To Use 
 
-Step 1 - Open the 'main' branch
-Step 2 - download the installer file
-Step 3 - run the file
-Step 4 - Find 'TSVPN.py'
-Step 5 - Run the file
+##### Step 1 - Open the 'main' branch
+##### Step 2 - download the installer file
+##### Step 3 - run the file
+##### Step 4 - Find 'TSVPN.py'
+##### Step 5 - Run the file
 
 -------------------------------------------------------------------------------------------------
 
