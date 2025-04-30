@@ -29,6 +29,16 @@ Legality: The legality of using VPNs can vary across different jurisdictions. Wh
 In conclusion, a Virtual Private Network serves as a sophisticated and invaluable tool for enhancing online security, protecting digital privacy, and enabling greater internet freedom. By establishing an encrypted tunnel and routing traffic through intermediary servers, VPNs provide a crucial layer of protection against the inherent vulnerabilities of public networks and the increasing threats to online privacy. Their utility extends across individual users seeking greater anonymity and security to organizations requiring secure remote access and the circumvention of geographical limitations. As the digital landscape continues to evolve, the role and importance of VPNs in safeguarding online interactions are likely to remain significant.
 -----------------------------------------------------------------------------------------------------------------------------
 
+# How To Use 
+
+Step 1 - Open the 'main' branch
+Step 2 - download the installer file
+Step 3 - run the file
+Step 4 - Find 'TSVPN.py'
+Step 5 - Run the file
+
+-------------------------------------------------------------------------------------------------
+
 # Safe IP's and Ports
 
 #### UDP 500 (ISAKMP/IKE): For key exchange.
